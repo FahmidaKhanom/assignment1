@@ -6,8 +6,9 @@ body {
 }
 
 h1 {
-    justify-content: center;
-    display: flex;
+    display: inline;
+    margin: 50px;
+
 
 }
 
