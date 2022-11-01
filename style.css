@@ -1,0 +1,60 @@
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+
+}
+
+#button {
+    color: black;
+    text-decoration: none;
+}
+
+#img {
+    display: flex;
+}
+
+.img-weidth1 {
+    width: 50%;
+}
+
+.img-weidth2 {
+    width: 50%;
+}
+
+.product-details {
+    display: flex;
+}
+
+.left-list {
+    background-color: chartreuse;
+    width: 50%;
+    padding: 2%;
+    border: 20px solid rosybrown;
+    border-radius: 15px;
+}
+
+.right-list {
+    background-image: url(back.jpeg);
+    width: 50%;
+    padding: 2%;
+    border: 15px double royalblue;
+}
+
+.form {
+    text-align: center;
+    background-color: crimson;
+    padding: 5%;
+    border: 10px dashed rgb(85, 65, 65);
+}
+
+footer p {
+    text-align: center;
+}
+}
